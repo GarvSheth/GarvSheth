@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garv Sheth</h1>
-<h3 align="center">An Enthu mern stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/rxdhT-5dBoP6GHu1-2RabZruPCLJpuufj5gR8lJiCg0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9h/ZG9yYWJsZS1ib3kt/ZmFudGFzeS13b3Js/ZF8yMy0yMTUxNzMy/MzMyLmpwZz9zaXpl/PTYyNiZleHQ9anBn">
+<h3 align="center">An Enthu mern stack Developer from India</h3
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvsheth&label=Profile%20views&color=0e75b6&style=flat" alt="garvsheth" /> </p>
 
@@ -22,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvsheth&show_icons=true&locale=en&layout=compact" alt="garvsheth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvsheth&show_icons=true&locale=en" alt="garvsheth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvsheth&" alt="garvsheth" /></p>
