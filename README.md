@@ -3,15 +3,15 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvsheth&label=Profile%20views&color=0e75b6&style=flat" alt="garvsheth" /> </p>
 
-- 🌱 I’m currently learning **Web3, Blockchain, Solidity**
+- 🌱 I’m currently learning **AI Agents -> Langgraph, Prompt Engineering, Tool Calling, Chains**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full Stack Development and Core CS**
 
 - 📫 How to reach me **b23es1016@iitj.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/garv-sheth-17387928a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garv-sheth-17387928a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/garv-sheth-17387928a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garv-sheth-17387928a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/s-garv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/s-garv/" height="30" width="40" /></a>
 </p>
 
